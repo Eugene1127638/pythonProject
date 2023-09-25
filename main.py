@@ -1,4 +1,6 @@
-num1 = float(input("Enter first number"))
-num2 = float(input("Enter second number"))
-S = num1 + num2
-print("Summary is:",S)
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+e = int(input())
+print((a*b*c)+(d/e))
