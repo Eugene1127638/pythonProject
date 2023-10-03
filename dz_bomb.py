@@ -10,4 +10,4 @@ while True:
         print(t)
 
     print('Boom!!')
-
+    break
