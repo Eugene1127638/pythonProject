@@ -5,5 +5,4 @@ while True:
 
     if b == "стоп" :
         print(b)
-
         break
