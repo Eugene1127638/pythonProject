@@ -1,9 +1,9 @@
 a = []
 while True:
     b = input()
+    a.append(b)
 
     if b == "стоп" :
-        break
-
-        a.append(b)
         print(b)
+
+        break
