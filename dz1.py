@@ -6,5 +6,4 @@ while True:
         break
 
         a.append(b)
-    for b in a:
         print(b)
